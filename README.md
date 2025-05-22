@@ -21,7 +21,7 @@
 ### Установка
 
 #Клонировать репозиторий
-git clone https://github.com/Fudjicy/smtp-parser/smtp-log-analyzer.git
+git clone https://github.com/Fudjicy/smtp-parser.git
 cd smtp-log-analyzer
 
 # Компиляция (выберите вашу ОС)
